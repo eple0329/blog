@@ -1,19 +1,9 @@
 ---
-title: '[Intro] 이제 여기에 자료구조를 정리할 것입니다.'
-excerpt: '이 게시글은 Theory 카테고리의 인트로입니다.'
-
-categories:
-  - Theory
-tags:
-  - [Algorithm, tag2]
-
-permalink: /algorithm/theory/algorithm-theory-intro/
-
+title: "[자료구조] 자료구조 관련 내용을 넣을 예정입니다"
+date: 2024-01-01 01:01:00 +0900
+categories: [Algorithm, Theory]
+tags: [offset]     # TAG names should always be lowercase
 toc: true
-toc_sticky: true
-
-date: 2024-01-09
-last_modified_at: 2024-01-09
 ---
 
 ## 🦥 자료구조의 시작
