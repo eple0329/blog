@@ -1,5 +1,5 @@
 ---
-title: "[AWS] AWS Lambda에 Docker Image로 Selenium을 올리기 위한 여정"
+title: "[AWS] AWS Lambda에 Docker Image로 Selenium을 올리기 위한 여정 (1)"
 date: 2024-01-17 22:30:00 +0900
 categories: [AWS, Lambda]
 tags: [aws, lambda, docker, image, selenium, python]     
