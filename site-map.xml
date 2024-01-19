@@ -1,0 +1,182 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
+
+
+<url>
+  <loc>https://nesquitto.github.io/</loc>
+  <lastmod>2024-01-19T11:59:31+00:00</lastmod>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>https://nesquitto.github.io/categories/</loc>
+  <lastmod>2024-01-19T11:59:31+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://nesquitto.github.io/tags/</loc>
+  <lastmod>2024-01-19T11:59:31+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://nesquitto.github.io/archives/</loc>
+  <lastmod>2024-01-19T11:59:31+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://nesquitto.github.io/about/</loc>
+  <lastmod>2024-01-19T11:59:31+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://nesquitto.github.io/posts/aws-lambda-docker-2/</loc>
+  <lastmod>2024-01-19T11:59:31+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://nesquitto.github.io/posts/aws-lambda-docker-1/</loc>
+  <lastmod>2024-01-19T11:59:31+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://nesquitto.github.io/posts/spring-error-1/</loc>
+  <lastmod>2024-01-19T11:59:31+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://nesquitto.github.io/posts/priority-queue/</loc>
+  <lastmod>2024-01-19T11:59:31+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://nesquitto.github.io/tags/aws/</loc>
+  <lastmod>2024-01-19T11:59:31+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://nesquitto.github.io/tags/docker/</loc>
+  <lastmod>2024-01-19T11:59:31+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://nesquitto.github.io/tags/image/</loc>
+  <lastmod>2024-01-19T11:59:31+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://nesquitto.github.io/tags/lambda/</loc>
+  <lastmod>2024-01-19T11:59:31+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://nesquitto.github.io/tags/python/</loc>
+  <lastmod>2024-01-19T11:59:31+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://nesquitto.github.io/tags/selenium/</loc>
+  <lastmod>2024-01-19T11:59:31+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://nesquitto.github.io/tags/algorithm/</loc>
+  <lastmod>2024-01-19T11:59:31+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://nesquitto.github.io/tags/datastructure/</loc>
+  <lastmod>2024-01-19T11:59:31+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://nesquitto.github.io/tags/error/</loc>
+  <lastmod>2024-01-19T11:59:31+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://nesquitto.github.io/tags/form-data/</loc>
+  <lastmod>2024-01-19T11:59:31+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://nesquitto.github.io/categories/aws/</loc>
+  <lastmod>2024-01-19T11:59:31+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://nesquitto.github.io/categories/lambda/</loc>
+  <lastmod>2024-01-19T11:59:31+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://nesquitto.github.io/categories/algorithm/</loc>
+  <lastmod>2024-01-19T11:59:31+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://nesquitto.github.io/categories/theory/</loc>
+  <lastmod>2024-01-19T11:59:31+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://nesquitto.github.io/categories/project/</loc>
+  <lastmod>2024-01-19T11:59:31+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://nesquitto.github.io/categories/error/</loc>
+  <lastmod>2024-01-19T11:59:31+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://nesquitto.github.io/tags/heap/</loc>
+  <lastmod>2024-01-19T11:59:31+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://nesquitto.github.io/tags/java/</loc>
+  <lastmod>2024-01-19T11:59:31+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://nesquitto.github.io/tags/json/</loc>
+  <lastmod>2024-01-19T11:59:31+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://nesquitto.github.io/tags/multipart/</loc>
+  <lastmod>2024-01-19T11:59:31+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://nesquitto.github.io/tags/postman/</loc>
+  <lastmod>2024-01-19T11:59:31+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://nesquitto.github.io/tags/priority-queue/</loc>
+  <lastmod>2024-01-19T11:59:31+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://nesquitto.github.io/tags/queue/</loc>
+  <lastmod>2024-01-19T11:59:31+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://nesquitto.github.io/tags/spring/</loc>
+  <lastmod>2024-01-19T11:59:31+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://nesquitto.github.io/tags/theory/</loc>
+  <lastmod>2024-01-19T11:59:31+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+
+
+</urlset>
