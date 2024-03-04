@@ -1,7 +1,7 @@
 ---
 title: "[터진 잔해도 다시보자] 중립, 사실 기반 의견공유 플랫폼 - 토론티어 프로젝트"
 date: 2024-02-15 21:00:00 +0900
-categories: [Project, 회고]
+categories: [회고록, 프로젝트 회고]
 tags: [project, 토론티어, 회고, 실패한 프로젝트]     
 # TAG names should always be lowercase
 toc: true
