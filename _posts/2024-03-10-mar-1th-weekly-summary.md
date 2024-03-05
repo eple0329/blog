@@ -13,13 +13,13 @@ toc: true
 > **3월 4일 ~ 3월 10일**
 
 - 블로그 게시글 1개 포스팅 (v)
-  - [포스팅 제목](https://nesquitto.github.io)
+  - [[Climeet] (Release Branch → Main Branch)에서 Squash and merge는 사용하기 어렵다](https://nesquitto.github.io/posts/git-branch-conflict/)
   
 ### **상반기 목표**
 > **1월 ~ 6월**
 
-- Github Commit 500개 넘기기
-  - 현재 178 Commit
+- Github Contribution 500개 넘기기
+  - 현재 180 Contribution
 - 김영한 강의 2개 완강하기
 - 코세라 데이터 분석 강의 완강
 - 클밋 프로젝트 스토어 배포
@@ -29,7 +29,7 @@ toc: true
 
 - 평균학점 4.0 넘기기
 - Spring & Java 깊게 공부하기
-- Github Commit 1000개 넘기기
+- Github Contribution 1000개 넘기기
 
 ### **읽고자 하는 책**
 - 클린 코드

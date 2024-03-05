@@ -2,7 +2,7 @@
 title: "[Climeet] (Release Branch → Main Branch)에서 Squash and merge는 사용하기 어렵다"
 date: 2024-03-05 11:00:00 +0900
 categories: [Project, 고민]
-tags: [project, climeet, github, merge]     
+tags: [project, climeet, github, merge, squash]     
 # TAG names should always be lowercase
 toc: true
 ---
@@ -69,4 +69,5 @@ release 브랜치와 main 브랜치는 같은 변경사항에서 파생되지만
 따라서 release → main으로 배포를 진행할 때에는 Squash and merge가 아닌 일반 Merge를 사용하는게 제일 좋은 방법이라고 생각한다.
 
 추가로 Rebase and merge를 추천하는 글도 있었는데, 그러면 main 브랜치의 커밋이 많아지지 않을까 하는 생각이 든다. 나중에 사용하게 되면 해보고 일반 merge가 좋은지 rebase가 좋은지 비교를 해봐야겠다.
+
 [이 사이트에서 추천하더라](https://jangjjolkit.tistory.com/49)
