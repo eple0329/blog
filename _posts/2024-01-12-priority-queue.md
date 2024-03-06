@@ -1,7 +1,7 @@
 ---
 title: "[자료구조] Priority Queue"
 date: 2024-01-11 13:40:00 +0900
-categories: [Algorithm, Theory]
+categories: [Study, 알고리즘]
 tags: [algorithm, theory, datastructure, heap, queue, priority_queue]     
 # TAG names should always be lowercase
 toc: true

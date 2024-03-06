@@ -1,7 +1,7 @@
 ---
 title: "[에러] Spring Boot/Unsupported media type 415, 400 Error - Java, Postman"
 date: 2024-01-13 15:00:00 +0900
-categories: [Project, Error]
+categories: [Project, 문제해결]
 tags: [spring, postman, error, multipart, form-data, json, java]     
 # TAG names should always be lowercase
 toc: true
