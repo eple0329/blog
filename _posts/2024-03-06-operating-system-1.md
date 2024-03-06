@@ -165,7 +165,7 @@ Processor는 CPU의 다른 이름이라고도 할 수 있다. 지금은 Processo
         
         ![hdd](/assets/img/posts/2024-03-06/hdd.png)
         
-        [commons.wikimedia.org](http://commons.wikimedia.org/)
+        commons.wikimedia.org
         
     - 휘발성이라는 특징을 가지는 RAM의 단점으로 인해 개발되었다.
     - 컴퓨터의 데이터를 반영구적으로 저장할 수 있으며, 데이터 저장소로 사용된다.
