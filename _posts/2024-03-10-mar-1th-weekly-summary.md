@@ -1,6 +1,6 @@
 ---
 title: "[3월 1주차] 개강 주차"
-date: 2024-03-10 20:00:00 +0900
+date: 2024-03-10 22:00:00 +0900
 categories: [회고록, 주간 회고]
 tags: [retrospect, week]     
 # TAG names should always be lowercase
@@ -14,12 +14,13 @@ toc: true
 
 - 블로그 게시글 1개 포스팅 (v)
   - [[Climeet] (Release Branch → Main Branch)에서 Squash and merge는 사용하기 어렵다](https://nesquitto.github.io/posts/git-branch-conflict/)
-  
+  - [[운영체제] 1. CPU의 Instruction 처리 Cycle에 대해서 알아보자](https://nesquitto.github.io/posts/operating-system-1/)
+
 ### **상반기 목표**
 > **1월 ~ 6월**
 
 - Github Contribution 500개 넘기기
-  - 현재 180 Contribution
+  - 현재 186 Contribution
 - 김영한 강의 2개 완강하기
 - 코세라 데이터 분석 강의 완강
 - 클밋 프로젝트 스토어 배포
@@ -69,9 +70,7 @@ OLTP와 OLAP를 구분해서 테이블을 따로 구성하든, DB를 따로 구�
 > ### 동아리
 
 동아리를 새롭게 가입했다.
-1. AWS 관련 연합 동아리인데, 주마다 몇명씩 본인이 관심있는 기술이나 경험을 발표하는 세미나가 주된 활동인 것 같다. 새로운 지식을 얻고자 하는 사람들이 많이 모일 것 같아서 가입을 해보았고, 어떨지는 좀 지켜봐야할 것 같다.
-2. 또 Google 관련 커뮤니티 동아리(GDSC)도 가입했다. 이 동아리에서 관심있는 활동은 오픈소스 기여 프로젝트이고, 마찬가지로 새로운 정보나, 내가 성장해나갈 수 있는 방향을 찾을 수 있지 않을까 싶어 가입을 해보았다.
-두 동아리 모두 시간을 많이 투자해야하는 동아리는 아닌 것 같아 일단 가입을 했고, 앞으로 어떤 일이 펼져칠지는 직접 겪어보면 알 것 같다.
+Google 관련 커뮤니티 동아리(GDSC)도 가입했다. 이 동아리에서 관심있는 활동은 오픈소스 기여 프로젝트이고, 마찬가지로 새로운 정보나, 내가 성장해나갈 수 있는 방향을 찾을 수 있지 않을까 싶어 가입을 해보았다.
 
 > ### 근로장학생
 
