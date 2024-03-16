@@ -19,10 +19,9 @@ toc: true
 ### **상반기 목표**
 > **1월 ~ 6월**
 
-- Github Contribution 500개 넘기기
+- Github Contribution 400개
   - 현재 186 Contribution
 - 김영한 강의 2개 완강하기
-- 코세라 데이터 분석 강의 완강
 - 클밋 프로젝트 스토어 배포
 
 ### **연간 목표**
@@ -30,7 +29,7 @@ toc: true
 
 - 평균학점 4.0 넘기기
 - Spring & Java 깊게 공부하기
-- Github Contribution 1000개 넘기기
+- Github Contribution 800개
 
 ### **읽고자 하는 책**
 - 클린 코드
