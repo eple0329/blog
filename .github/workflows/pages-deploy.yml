@@ -63,9 +63,10 @@ jobs:
       # --- Discord 웹훅 알림 추가 시작 ---
       - name: Send Discord notification on deployment success
         if: success() # 이전 단계(deployment)가 성공했을 때만 실행
-        uses: rjstone/discord-webhook-notify@v2.0.1
+        uses: rjstone/discord-webhook-notify@v2
         with:
           webhookUrl: ${{ secrets.DISCORD_WEBHOOK_URL }}
+          severity: info
           text: |
             🚀 **GitHub Pages 배포 성공!** 🚀
             Repository: ${{ github.repository }}
@@ -77,9 +78,10 @@ jobs:
   
       - name: Send Discord notification on deployment failure
         if: failure() # 이전 단계(deployment)가 실패했을 때 실행
-        uses: rjstone/discord-webhook-notify@v2.0.1
+        uses: rjstone/discord-webhook-notify@v2
         with:
           webhookUrl: ${{ secrets.DISCORD_WEBHOOK_URL }}
+          severity: error
           text: |
             🔴 **GitHub Pages 배포 실패!** 🔴
             Repository: ${{ github.repository }}
