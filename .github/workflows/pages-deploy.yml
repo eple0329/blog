@@ -69,10 +69,7 @@ jobs:
           severity: info
           text: |
             🚀 **GitHub Pages 배포 성공!** 🚀
-            Repository: ${{ github.repository }}
-            Branch: ${{ github.ref_name }}
             Deployed URL: ${{ steps.deployment.outputs.page_url }}
-            Commit: ${{ github.sha }} - ${{ github.event.head_commit.message }}
             [워크플로우 실행 보기](${{ github.server_url }}/${{ github.repository }}/actions/runs/${{ github.run_id }})
             [배포된 페이지 방문](${{ steps.deployment.outputs.page_url }})
   
@@ -84,9 +81,6 @@ jobs:
           severity: error
           text: |
             🔴 **GitHub Pages 배포 실패!** 🔴
-            Repository: ${{ github.repository }}
-            Branch: ${{ github.ref_name }}
-            Commit: ${{ github.sha }} - ${{ github.event.head_commit.message }}
             [워크플로우 실행 보기](${{ github.server_url }}/${{ github.repository }}/actions/runs/${{ github.run_id }})
           color: '#FF0000' # RRGGBB 형태의 16진수 값
       # --- Discord 웹훅 알림 추가 끝 ---
