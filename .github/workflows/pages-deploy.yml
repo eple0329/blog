@@ -66,7 +66,7 @@ jobs:
         uses: rjstone/discord-webhook-notify@v2.0.1
         with:
           webhookUrl: ${{ secrets.DISCORD_WEBHOOK_URL }}
-          content: |
+          text: |
             🚀 **GitHub Pages 배포 성공!** 🚀
             Repository: ${{ github.repository }}
             Branch: ${{ github.ref_name }}
@@ -80,7 +80,7 @@ jobs:
         uses: rjstone/discord-webhook-notify@v2.0.1
         with:
           webhookUrl: ${{ secrets.DISCORD_WEBHOOK_URL }}
-          content: |
+          text: |
             🔴 **GitHub Pages 배포 실패!** 🔴
             Repository: ${{ github.repository }}
             Branch: ${{ github.ref_name }}
