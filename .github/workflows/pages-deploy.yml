@@ -65,12 +65,7 @@ jobs:
         if: success() # 이전 단계(deployment)가 성공했을 때만 실행
         uses: rjstone/discord-webhook-notify@v6 # Discord 알림을 보내는 액션 사용
         with:
-          # 1. Discord 웹훅 URL (GitHub Secrets에 저장하는 것을 강력 권장)
-          #    예: DISCORD_WEBHOOK_URL 이라는 Secret에 웹훅 URL을 저장
           webhook_url: ${{ secrets.DISCORD_WEBHOOK_URL }}
-          
-          # 2. 알림 메시지 내용 (선택 사항)
-          #    Markdown 형식도 지원하며, GitHub Actions 컨텍스트 변수 사용 가능
           content: |
             🚀 **GitHub Pages 배포 성공!** 🚀
             Repository: ${{ github.repository }}
@@ -90,7 +85,7 @@ jobs:
             Repository: ${{ github.repository }}
             Branch: ${{ github.ref_name }}
             Commit: ${{ github.sha }} - ${{ github.event.head_commit.message }}
-            [워크플로우 실행 보기](${{ github.server_url }}/${{ github.repository}/actions/runs/${{ github.run_id }})
+            [워크플로우 실행 보기](${{ github.server_url }}/${{ github.repository }}/actions/runs/${{ github.run_id }})
           username: GitHub Actions Deploy Bot (Error)
           avatar_url: https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png
           # 실패 시 메시지 색상을 빨간색으로 설정 (Discord embed 색상 코드)
