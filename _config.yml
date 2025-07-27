@@ -14,19 +14,19 @@ timezone: Asia/Seoul
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: 개발바닥 # the main title
+title: 알쓸개블 # the main title
 
-tagline: GPT와 함께하는 삽질세상 # it will display as the sub-title
+tagline: 심심해서 만들어본 개발용 블로그 # it will display as the sub-title
 
 description: >- # used by seo meta and the atom feed
-  A minimal, responsive and feature-rich Jekyll theme for technical writing.
+  꾸준히 한걸음 더 나아가기 위해 만들어본 개발 블로그. 백엔드, 자동화, 인프라 등 다양한 분야를 올릴 예정입니다.
 
 # Fill in the protocol & hostname for your site.
 # e.g. 'https://username.github.io', note that it does not end with a '/'.
-url: "https://nesquitto.github.io"
+url: "https://eple0329.github.io"
 
 github:
-  username: Nesquitto # change to your github username
+  username: eple0329 # change to your github username
 
 #twitter:
 #  username: twitter_username # change to your twitter username
@@ -34,15 +34,14 @@ github:
 social:
   # Change to your full name.
   # It will be displayed as the default author of the posts and the copyright owner in the Footer
-  name: Nesquitto
-  email: ret0422@gmail.com # change to your email address
+  name: 가디(Gadi)
+  email: eple0329@gmail.com # change to your email address
   links:
     # The first element serves as the copyright owner's link
     #- https://twitter.com/username # change to your twitter homepage
-    - https://github.com/Nesquitto # change to your github homepage
+    - https://github.com/eple0329 # change to your github homepage
     # Uncomment below to add more social links
     # - https://www.facebook.com/username
-    - https://nesquitto.tistory.com
 
 google_site_verification: # fill in to your verification string
 
@@ -73,7 +72,7 @@ theme_mode: # [light|dark]
 img_cdn:
 
 # the avatar on sidebar, support local or CORS resources
-avatar: assets/img/favicons/android-chrome-512x512.png
+avatar: assets/img/favicons/me.jpeg
 
 # The URL of the site-wide social preview image used in SEO `og:image` meta tag.
 # It can be overridden by a customized `page.image` in front matter.
@@ -83,24 +82,15 @@ social_preview_image: # string, local or CORS resources
 toc: true
 
 comments:
-  active: giscus # The global switch for posts comments, e.g., 'disqus'.  Keep it empty means disable
+  active: utterances # The global switch for posts comments, e.g., 'disqus'.  Keep it empty means disable
   # The active options are as follows:
   disqus:
     shortname: # fill with the Disqus shortname. › https://help.disqus.com/en/articles/1717111-what-s-a-shortname
   # utterances settings › https://utteranc.es/
   utterances:
-    repo:  # <gh-username>/<repo>
-    issue_term: # < url | pathname | title | ...>
-  # Giscus options › https://giscus.app
-  giscus:
-    repo: Nesquitto/github-blog-utterances # <gh-username>/<repo>
-    repo_id: R_kgDOLCEldA
-    category: comment
-    category_id: DIC_kwDOLCEldM4CcWrK
-    mapping: pathname # optional, default to 'pathname'
-    input_position: top # optional, default to 'bottom'
-    lang: ko # optional, default to the value of `site.lang`
-    reactions_enabled: 1 # optional, default to the value of `1`
+    repo:  eple0329/blog
+    issue_term: pathname
+    theme: preffered-color-scheme
 
 # Self-hosted static assets, optional › https://github.com/cotes2020/chirpy-static-assets
 assets:
