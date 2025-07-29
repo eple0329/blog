@@ -58,7 +58,7 @@ analytics:
 
 # Page views settings
 pageviews:
-  provider: goatcounter # now only supports 'goatcounter'
+  provider: #goatcounter # now only supports 'goatcounter'
 
 # Prefer color scheme setting.
 #
@@ -94,7 +94,7 @@ comments:
   # Global switch for the post-comment system. Keeping it empty means disabled.
   provider: utterances # [disqus | utterances | giscus]
   utterances:
-    repo:  eple0329/eple0329.github.io
+    repo: eple0329/eple0329.github.io
     issue_term: pathname
     theme: preffered-color-scheme
 
@@ -193,6 +193,3 @@ jekyll-archives:
   permalinks:
     tag: /tags/:name/
     category: /categories/:name/
-
-
-
