@@ -193,3 +193,8 @@ jekyll-archives:
   permalinks:
     tag: /tags/:name/
     category: /categories/:name/
+
+# Plugin settings
+plugins:
+  - jekyll-sitemap
+  - jekyll-feed

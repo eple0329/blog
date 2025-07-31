@@ -5,6 +5,8 @@ source "https://rubygems.org"
 gem "jekyll-theme-chirpy", "~> 7.3", ">= 7.3.1"
 
 gem "html-proofer", "~> 5.0", group: :test
+gem 'jekyll-sitemap'
+gem 'jekyll-feed'
 
 platforms :mingw, :x64_mingw, :mswin, :jruby do
   gem "tzinfo", ">= 1", "< 3"
