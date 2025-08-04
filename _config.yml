@@ -184,6 +184,10 @@ exclude:
   - purgecss.js
   - "*.config.js"
   - "package*.json"
+  - feed.xml
+  - assets/feed.xml
+  - robots.txt
+  - assets/robots.txt
 
 jekyll-archives:
   enabled: [categories, tags]
