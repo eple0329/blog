@@ -1,5 +1,0 @@
-User-agent: *
-Allow: /
-
-Sitemap: https://eple0329.github.io/sitemap.xml
-Sitemap: https://eple0329.github.io/feed.xml
